@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="dhlshirt2" size="0.450000 0.310078" />
+    <ImageTarget name="Ikeashirt2" size="0.240000 0.169687" />
+    <ImageTarget name="JackWills2" size="0.240000 0.142875" />
+    <ImageTarget name="afshirt1" size="0.080000 0.106778" />
+    <ImageTarget name="chamshirt1" size="0.150000 0.200209" />
+    <ImageTarget name="JackWills" size="0.240000 0.403150" />
+    <ImageTarget name="NTUshirt" size="0.300000 0.168000" />
+  </Tracking>
+</QCARConfig>
